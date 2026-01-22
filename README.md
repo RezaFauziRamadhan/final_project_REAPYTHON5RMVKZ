@@ -1,4 +1,4 @@
-Sistem Movie Recommendation 
+Sistem Movie Recommendation berbabasis genre dan rating
 
 ID Student: REAPYTHON5RMVKZ
 
